@@ -1,0 +1,2 @@
+# superwhisper
+superwhisper prompts
